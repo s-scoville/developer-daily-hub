@@ -14,7 +14,7 @@ namespace DeveloperDailyHub.Api.Controllers
             return Ok(new StatusResponse
             {
                 Name = "Developer Daily Hub",
-                Version = "1.0",
+                Version = "v1.0",
                 ServerTime = DateTime.UtcNow
             });
 
