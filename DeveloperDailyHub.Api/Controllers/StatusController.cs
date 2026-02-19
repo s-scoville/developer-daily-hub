@@ -12,7 +12,7 @@ namespace DeveloperDailyHub.Api.Controllers
         {
             return Ok(new StatusResponse
             {
-                Name = "DeveloperDailyHub API",
+                Name = "Developer Daily Hub",
                 Version = "v1.0",
                 ServerTime = DateTime.UtcNow
             });
