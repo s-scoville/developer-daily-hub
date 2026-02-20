@@ -4,5 +4,7 @@
     <File Path="README.md" />
   </Folder>
   <Project Path="DeveloperDailyHub.Api/DeveloperDailyHub.Api.csproj" />
-  <Project Path="DeveloperDailyHub.ApiTests/DeveloperDailyHub.ApiTests.csproj" Id="9e281fc8-91f7-4ced-83e8-ccb6507e39eb" />
+  <Project Path="DeveloperDailyHub.ApiTests/DeveloperDailyHub.ApiTests.csproj" Id="9e281fc8-91f7-4ced-83e8-ccb6507e39eb">
+    <Build Solution="Debug|*" Project="false" />
+  </Project>
 </Solution>
